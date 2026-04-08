@@ -42,10 +42,5 @@ Traditional CSAT surveys are slow and often incomplete. This project aims to pre
 
 ---
 
-## 🚀 Deployment
-The model can be deployed locally to generate real-time CSAT predictions using new customer data.
-
----
-
 ## 📌 Conclusion
 This project demonstrates how deep learning can be applied to improve customer experience and business performance in e-commerce.
