@@ -1,6 +1,6 @@
 # CS_AI_M1_DeepCSAT_Customer-Satisfaction-Analysis
 
-# CSAT Prediction using Deep Learning (ANN)
+## CSAT Prediction using Deep Learning (ANN)
 
 ## 📌 Overview
 This project predicts Customer Satisfaction (CSAT) scores using a Deep Learning model (Artificial Neural Network). It analyzes customer interaction data to help businesses improve service quality and make data-driven decisions.
